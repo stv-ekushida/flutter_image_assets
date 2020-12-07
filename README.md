@@ -20,7 +20,7 @@ https://qiita.com/takkyun/items/814aa45beee422a5f0c6
 
 |iOS| Android |
 |---|---|
-|@1.0x | mdpi / 
-|@1.5x | hdpi / 
-|@2.0x | xhdpi / 
-|@3.0x | xxhdpi / 
+|@1.0x | mdpi |
+|@1.5x | hdpi | 
+|@2.0x | xhdpi | 
+|@3.0x | xxhdpi | 
