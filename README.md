@@ -15,3 +15,11 @@ pubspec.yaml
 ```
 Image.asset('images/ic_list_off_on.png')
 ```
+## 参考情報
+
+|iOS| Android |
+|---|---|
+|@1.0x | mdpi / 
+|@1.5x | hdpi / 
+|@2.0x | xhdpi / 
+|@3.0x | xxhdpi / 
