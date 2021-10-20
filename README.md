@@ -18,6 +18,8 @@ Image.asset('images/ic_list_off_on.png')
 ## 参考情報
 https://qiita.com/takkyun/items/814aa45beee422a5f0c6
 
+https://developer.android.com/training/multiscreen/screendensities?hl=ja
+
 |iOS| Android |
 |---|---|
 |@1.0x | mdpi |
